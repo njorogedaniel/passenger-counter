@@ -1,0 +1,26 @@
+.container {
+    width: 30%;
+    height: 50%;
+    background-color: chartreuse;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 70px;
+}
+h1{
+    color: aliceblue;
+    padding: 10px;
+    align-items: center;
+}
+h3{
+    margin-left: 30px ;
+    margin-left: 30% ;
+
+}
+#btn-count,#save-btn{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border-style: none;
+    padding: 1em;
+    margin-left: 25%;
+}
